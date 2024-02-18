@@ -68,7 +68,7 @@ python screencapperv2.py
 
 ### New Tool: ScreenCapper-CLI
 
-Building on the foundation laid by `ScreenCapperV2`, the `ScreenCapper-CLI` is a streamlined, command-line interface (CLI) tool designed for Linux users. It enables the conversion of videos into PNG frames without the need for a graphical user interface, making it ideal for automated workflows or for use on servers.
+Building on the foundation laid by `ScreenCapperV2`, the `ScreenCapper-CLI` is a streamlined, command-line interface (CLI) tool designed for Linux users. It enables the conversion of videos into PNG frames without the need for a graphical user interface, making it ideal for automated workflows or for use on servers. This tool is specifically designed for the bulk conversion of video files, accommodating both individual files and entire series. It efficiently exports the frames from each video into distinct folders for organized access.
 
 To utilize this tool, navigate to your toolset directory and execute the following command:
 
