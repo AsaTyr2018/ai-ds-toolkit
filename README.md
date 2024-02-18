@@ -32,7 +32,7 @@ Facilitate the batch modification of tags within your dataset with this script. 
 python TagReplace.py
 ```
 
-### New 4. Combined GUI for Tools 1-3
+### New 4. Combined GUI for Tools 1-3 (Removed - Out of date)
 
 I've enhanced the usability of the first three tools by integrating them into a single, user-friendly graphical interface. Simply launch it with:
 
@@ -50,7 +50,7 @@ python Remove_Black.py -dir "path/to/your/pictures"
 
 It processes and saves the adjusted images in a new "output" folder within the original directory.
 
-### New 6. Screencapper
+### New 6. Screencapper (Removed - Out of date)
 
 This advanced addition, featuring a tkinter-based GUI, allows for converting videos into frames. It supports custom FPS and quality settings, utilizing ffmpeg for the conversion process. Required installations include Python, ffmpeg, and ffprobe. Start with:
 
